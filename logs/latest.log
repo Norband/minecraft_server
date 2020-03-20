@@ -1,0 +1,43 @@
+[18:08:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:08:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:08:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:08:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:08:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:08:41] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[18:08:41] [Server thread/INFO]: Loading properties
+[18:08:41] [Server thread/INFO]: Default game type: SURVIVAL
+[18:08:41] [Server thread/INFO]: Generating keypair
+[18:08:41] [Server thread/INFO]: Starting Minecraft server on 25.102.35.133:25565
+[18:08:41] [Server thread/INFO]: Using epoll channel type
+[18:08:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:08:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:08:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:08:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:08:41] [Server thread/INFO]: Preparing level "world"
+[18:08:42] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:08:43] [Server thread/INFO]: Loaded 6 recipes
+[18:08:44] [Server thread/INFO]: Loaded 825 advancements
+[18:08:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:08:52] [Server thread/INFO]: Preparing spawn area: 0%
+[18:08:52] [Server thread/INFO]: Preparing spawn area: 0%
+[18:08:52] [Server thread/INFO]: Preparing spawn area: 0%
+[18:08:53] [Server thread/INFO]: Preparing spawn area: 0%
+[18:08:53] [Server thread/INFO]: Preparing spawn area: 61%
+[18:08:56] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[18:08:56] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[18:08:56] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[18:08:56] [Server thread/INFO]: Preparing spawn area: 83%
+[18:08:56] [Server thread/INFO]: Preparing spawn area: 83%
+[18:08:56] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[18:08:57] [Server-Worker-3/INFO]: Preparing spawn area: 94%
+[18:08:57] [Server-Worker-6/INFO]: Preparing spawn area: 94%
+[18:08:58] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[18:08:58] [Server-Worker-3/INFO]: Preparing spawn area: 94%
+[18:08:59] [Server-Worker-7/INFO]: Preparing spawn area: 96%
+[18:08:59] [Server-Worker-5/INFO]: Preparing spawn area: 99%
+[18:08:59] [Server thread/INFO]: Time elapsed: 8139 ms
+[18:08:59] [Server thread/INFO]: Done (17.784s)! For help, type "help"
+[18:09:21] [Server thread/INFO]: Norband[/25.102.35.133:33696] logged in with entity id 222 at (17.509654392722656, 79.0, -46.58607565356429)
+[18:09:21] [Server thread/INFO]: Norband joined the game
+[18:09:35] [Server thread/INFO]: Norband lost connection: Disconnected
+[18:09:35] [Server thread/INFO]: Norband left the game
